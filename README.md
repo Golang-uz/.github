@@ -1,2 +1,2 @@
-# .github
-GolangUz
+# GolangUz
+
